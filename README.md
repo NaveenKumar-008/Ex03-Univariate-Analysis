@@ -10,26 +10,29 @@ Univariate analysis is basically the simplest form to analyze data. Uni means on
 
 # Algorithm  
 
-# Step1  
+# Step 1  
 
 Read the given data.  
 
-# Step2  
+# Step 2  
 
 Get the information about the data.  
 
-# Step3  
+# Step 3  
 
 Remove the null values from the data.  
 
-# Step4  
+# Step 4  
 
 Mention the datatypes from the data.  
 
-# Step5  
+# Step 5  
 
 Count the values from the data.  
 
-# Step6  
+# Step 6  
 
 Do plots like boxplots,countplot,distribution plot,histogram plot.  
+
+# Program
+

@@ -68,3 +68,7 @@ sns.histplot(x='Postal Code',data=df)
 
 # Output
 
+![ex3 1](https://user-images.githubusercontent.com/128135244/229033359-82f4338c-95bf-4297-8e90-8c1923574b5a.png)
+
+![ex 3 2](https://user-images.githubusercontent.com/128135244/229033387-bad77022-6d10-4662-b65b-28d4c0071abb.png)
+

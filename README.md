@@ -111,3 +111,6 @@ sns.histplot(x='Postal Code',data=df)
 ![ex 3 11](https://user-images.githubusercontent.com/128135244/229033805-84f76e64-120f-4009-9946-3a3b36a45ff2.png)
 
 
+## Result
+
+Thus we have read the given data and performed the univariate analysis with different types of plots.
